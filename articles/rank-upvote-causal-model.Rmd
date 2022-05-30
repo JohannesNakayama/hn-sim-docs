@@ -3,8 +3,8 @@ title: "The Causal Effect of Rank on Upvotes on HN"
 description: |
   A new article created using the Distill format.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
+  - name: Jonathan Warden
+    url: https://example.com/
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
 date: "`r Sys.Date()`"
